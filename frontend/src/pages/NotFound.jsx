@@ -7,4 +7,4 @@ function NotFound()
 		</div>
 }
 
-report default NotFound
+export default NotFound
